@@ -95,7 +95,7 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
-IP-CIDR,193.30.123.77/8096
+IP-CIDR,193.30.123.77/32
 # NAME: 自用
 DOMAIN-SUFFIX,superchat.live
 DOMAIN-SUFFIX,bulianglin.com

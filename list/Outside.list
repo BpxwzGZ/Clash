@@ -1,6 +1,9 @@
+DOMAIN-SUFFIX,superchat.live
+DOMAIN-SUFFIX,bulianglin.com
+
 # 谷歌play
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
+#DOMAIN-SUFFIX,googleapis.cn
+#DOMAIN-SUFFIX,googleapis.com
 # IP查询
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ip-api.com
+#DOMAIN-SUFFIX,ipify.org
+#DOMAIN-SUFFIX,ip-api.com

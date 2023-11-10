@@ -3,13 +3,16 @@
 # DOMAIN-KEYWORD:
 # DOMAIN-SUFFIX:
 # PROCESS-NAME:
+DOMAIN-SUFFIX,superchat.live
+DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,emby.kim
-DOMAIN-SUFFIX,emby.pro
-DOMAIN-SUFFIX,bgka.me
+DOMAIN-SUFFIX,t.emby.pro
+DOMAIN-SUFFIX,drei.bgka.me
 DOMAIN-SUFFIX,789.123456.al
-DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,free.xmsl.org
+DOMAIN-SUFFIX,cf.xmsl.org
 DOMAIN-SUFFIX,temby.285286.xyz
 DOMAIN-SUFFIX,imetyou.top
 DOMAIN-SUFFIX,embymv.tk
@@ -95,6 +98,3 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
-# NAME: 自用
-DOMAIN-SUFFIX,superchat.live
-DOMAIN-SUFFIX,bulianglin.com

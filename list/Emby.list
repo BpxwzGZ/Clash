@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,emby.kim
 DOMAIN-SUFFIX,t.emby.pro
 DOMAIN-SUFFIX,drei.bgka.me
 DOMAIN-SUFFIX,789.123456.al
-DOMAIN-SUFFIX,free.xmsl.org
-DOMAIN-SUFFIX,cf.xmsl.org
 DOMAIN-SUFFIX,temby.285286.xyz
 DOMAIN-SUFFIX,imetyou.top
 DOMAIN-SUFFIX,embymv.tk
@@ -27,10 +25,6 @@ DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,emby.nyancat.net
 DOMAIN-SUFFIX,emby.plusmedia.site
 DOMAIN-SUFFIX,emby-cf.plusmedia.site
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,emby.otakudrive.life
 DOMAIN-SUFFIX,emby2.otakudrive.life
 DOMAIN-SUFFIX,agahk1.jmsooo.com
@@ -50,10 +44,6 @@ DOMAIN-SUFFIX,emby.run
 DOMAIN-SUFFIX,emby.plusmedia.site
 DOMAIN-SUFFIX,emby-sg.plusmedia.site
 DOMAIN-SUFFIX,emby-cf.plusmedia.site
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,hk.jmsooo.com
@@ -98,3 +88,13 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
+DOMAIN,cf.xmsl.org
+DOMAIN,cf.gtlx.org
+DOMAIN,cfde.xmsl.org
+DOMAIN,de.xmsl.org
+DOMAIN,hd.xmsl.org
+DOMAIN,cfhd.xmsl.org
+DOMAIN,line.xmsl.org
+DOMAIN,ushd.xmsl.org
+DOMAIN,ee.xmsl.org
+IP-CIDR,89.58.63.237/24

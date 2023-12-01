@@ -4,8 +4,6 @@
 # DOMAIN-SUFFIX
 # PROCESS-NAME
 
-DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,emby.cn2gias.uk
 DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,temby.285286.xyz
 DOMAIN-SUFFIX,pornemby.club
@@ -33,12 +31,23 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,hk.jmsooo.com
 DOMAIN-SUFFIX,sg.jmsooo.com
+DOMAIN,emby.cn2gias.uk
+DOMAIN,cf.xmsl.org
+DOMAIN,cf.gtlx.org
+DOMAIN,cfde.xmsl.org
+DOMAIN,de.xmsl.org
+DOMAIN,hd.xmsl.org
+DOMAIN,cfhd.xmsl.org
+DOMAIN,line.xmsl.org
+DOMAIN,ushd.xmsl.org
+DOMAIN,ee.xmsl.org
+IP-CIDR,89.58.63.237/24
+IP-CIDR,74.50.80.23/32
 DOMAIN-SUFFIX,cf.odysseyplus.site
 DOMAIN-SUFFIX,agahk.odysseyplus.site
 DOMAIN-SUFFIX,agasg.odysseyplus.site
 DOMAIN-SUFFIX,ru.odysseyplus.site
 DOMAIN-SUFFIX,emby.nexitally.com
-DOMAIN-SUFFIX,emby.cjpc.cc
 DOMAIN-SUFFIX,emby.flowercloud.yt
 DOMAIN-SUFFIX,emby.maying.club
 DOMAIN-SUFFIX,emby.mdss.cloud
@@ -67,7 +76,6 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,gfwemby.org
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,cc.ccemby.tk
-DOMAIN-SUFFIX,direct.nebula-emby.com
 DOMAIN-SUFFIX,magpie.cyou
 DOMAIN-SUFFIX,ccemby.tk
 DOMAIN-SUFFIX,embyplus.club
@@ -88,14 +96,6 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
-DOMAIN,cf.xmsl.org
-DOMAIN,cf.gtlx.org
-DOMAIN,cfde.xmsl.org
-DOMAIN,de.xmsl.org
-DOMAIN,hd.xmsl.org
-DOMAIN,cfhd.xmsl.org
-DOMAIN,line.xmsl.org
-DOMAIN,ushd.xmsl.org
-DOMAIN,ee.xmsl.org
-IP-CIDR,89.58.63.237/24
-IP-CIDR,74.50.80.23/32
+
+# 其他网站
+DOMAIN-SUFFIX,bulianglin.com

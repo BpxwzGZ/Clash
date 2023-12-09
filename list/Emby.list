@@ -4,11 +4,16 @@
 # PROCESS-NAME
 
 # Emby
+DOMAIN-SUFFIX,emby.cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,temby.285286.xyz
+DOMAIN-SUFFIX,285286.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,emby.kim
+DOMAIN-SUFFIX,t.emby.pro
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,bgka.me
 DOMAIN-SUFFIX,imetyou.top
@@ -46,7 +51,6 @@ DOMAIN-SUFFIX,ccemby.tk
 DOMAIN-SUFFIX,embyplus.club
 DOMAIN-SUFFIX,mjjemby.org
 DOMAIN-SUFFIX,bddup.com
-DOMAIN,emby.cn2gias.uk
 DOMAIN,cf.xmsl.org
 DOMAIN,cf.gtlx.org
 DOMAIN,cfde.xmsl.org

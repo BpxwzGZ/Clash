@@ -3,6 +3,6 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 
 # other
-DOMAIN-SUFFIX,emotn.com
+DOMAIN-SUFFIX,keeflys.com
 PROCESS-NAME,com.mb.android
 PROCESS-NAME,com.overseas.store.appstore

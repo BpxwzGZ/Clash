@@ -9,7 +9,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
 
 https://github.com/xiyangyang220/Clash/blob/main
 
-https://github.com/flyhigherpi/merlinclash_clash_related/master/Rule_config
+https://github.com/flyhigherpi/merlinclash_clash_related/tree/master/Rule_config
 
 EMBY规则参考
 

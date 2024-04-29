@@ -1,8 +1,0 @@
-# 谷歌play商店
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
-
-# other
-DOMAIN-SUFFIX,keeflys.com
-PROCESS-NAME,com.mb.android
-PROCESS-NAME,com.overseas.store.appstore
